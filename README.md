@@ -54,13 +54,13 @@ Antes de começar, vamos organizar nosso setup.
 
 - **3. Testes Individuais**
     - **3.1 Teste t** 
-        - **3.1.1 Teste t para Amostras Independentes:** ([testes/testet.md](testes/testet.md))
+        - **3.1.1 Teste t para Amostras Independentes:** ([](capitulos/testes/testet.md))
     - **3.2 Teste Z**
-        - **3.2.1 Teste Z para Comparar Proporções:** ([testes/testez.md](testes/testez.md))
+        - **3.2.1 Teste Z para Comparar Proporções:** (capitulos/testes/testez.md)
     - **3.3 Teste Qui-quadrado**
-        - **3.3.1 Teste Qui-quadrado de Independência:** ([testes/qui.md](testes/qui.md))
+        - **3.3.1 Teste Qui-quadrado de Independência:** ([capitulos/testes/qui.md](capitulos/testes/qui.md))
     - **3.4 Teste ANOVA**
-        - **3.4.1 Teste ANOVA:** ([testes/anova.md](capitulos/testes/anova.md))
+        - **3.4.1 Teste ANOVA:** ([capitulos/testes/anova.md](capitulos/testes/anova.md))
 
 ---
 
