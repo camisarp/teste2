@@ -60,7 +60,7 @@ Antes de começar, vamos organizar nosso setup.
     - **3.3 Teste Qui-quadrado**
         - **3.3.1 Teste Qui-quadrado de Independência:** ([testes/qui.md](testes/qui.md))
     - **3.4 Teste ANOVA**
-        - **3.4.1 Teste ANOVA:** ([testes/anova.md](testes/anova.md))
+        - **3.4.1 Teste ANOVA:** ([testes/anova.md](capitulos/testes/anova.md))
 
 ---
 
