@@ -67,13 +67,13 @@ O processo de teste de hipóteses envolve as seguintes etapas:
 
 Existem vários tipos de testes de hipóteses, incluindo:
 
-- **Testes Unilaterais:** Este processo consiste em realizar um teste estatístico para verificar se a diferença entre um grupo específico e o grupo total é maior ou menor que um valor escolhido. Esse teste é comum em estudos científicos e de pesquisa para verificar se há uma diferença importante entre dois grupos de dados.
+- **Teste t:** Este teste é utilizado para comparar as médias de dois grupos distintos. Ele é uma excelente ferramenta para determinar se há uma diferença significativa entre esses grupos.
+  
+- **Teste Z:** Este teste é usado para comparar proporções. É uma ferramenta muito útil para determinar se a proporção de um grupo difere significativamente da proporção de outro.
 
-- **Testes Bilaterais:** São técnicas de estatística usadas quando queremos verificar se a diferença entre as médias de um grupo e de uma população é bem diferente de um valor que já decidimos antes. Isso é comumente usado em pesquisas científicas e outros estudos para testar ideias e conseguir resultados.
+- **Teste Qui-quadrado:** Este teste é usado para analisar a independência entre duas variáveis categóricas. Ele nos ajuda a entender se existe uma relação entre elas ou se elas são independentes uma da outra.
 
-- **Testes Paramétricos:** Esses testes são feitos presumindo que os dados seguem uma distribuição normal. Essa suposição é importante porque nos permite usar várias técnicas estatísticas que podem nos dar informações úteis sobre os dados. Assim, antes de fazer um teste paramétrico, é muito importante verificar se os dados são normais.
-
-- **Testes Não Paramétricos:** São testes estatísticos especiais que não precisam considerar que os dados seguem uma distribuição normal. Isso os torna úteis e adaptáveis quando não podemos garantir essa suposição.
+- **ANOVA:** Se precisamos comparar as médias de mais de dois grupos, usamos o teste ANOVA. Este teste é fundamental para entender se as diferenças entre as médias dos grupos são estatisticamente significativas ou não.
 
 ###  1.6. Aplicações Práticas de Testes de Hipóteses
 
