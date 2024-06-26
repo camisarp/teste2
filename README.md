@@ -66,11 +66,21 @@ Antes de começar, vamos organizar nosso setup.
 
 ### 🔗 Links Úteis
 
-1. **[Doc Numpy](https://numpy-org.translate.goog/devdocs/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** :  A base para cálculos numéricos com arrays multidimensionais, fornecendo funções para média, mediana, moda, variância e desvio padrão.
-2. **[Doc Pandas](https://pandas-pydata-org.translate.goog/docs/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** : Permite manipular e analisar dados estruturados em forma tabular, facilitando cálculos e visualização.
-3. **[Doc Matplotlib](https://matplotlib-org.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** : A biblioteca principal para criar gráficos, como histogramas.
-4. **[Doc Random](https://docs.python.org/pt-br/3/library/random.html)** : Usada para gerar números aleatórios e simular eventos aleatórios, como o lançamento de uma moeda.
-5. **[Doc Scipy.stats](https://docs-scipy-org.translate.goog/doc/scipy/reference/stats.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** : Usada para cálculos estatísticos mais avançados, incluindo a função mode() para encontrar a moda e o cálculo de intervalos de confiança.
+**Implementação em Python:**
+
+* **[Documentação Scipy](https://docs.scipy.org/doc/scipy/reference/index.html)**: Documentação completa da biblioteca Scipy, incluindo funções para testes estatísticos.
+* **[Documentação Statsmodels](https://www.statsmodels.org/stable/index.html)**: Documentação da biblioteca Statsmodels, com foco em testes estatísticos e modelos estatísticos.
+* **[Documentação Numpy](https://numpy.org/doc/stable/)**: Documentação da biblioteca Numpy para manipulação de arrays e matrizes em Python.
+* **[Doc Pandas](https://pandas-pydata-org.translate.goog/docs/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** : Documentação da biblioteca Pandas para manipulação e análise de dados estruturados em forma tabular.
+* **[Doc Matplotlib](https://matplotlib-org.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)** : Documentação da biblioteca Matplotlib para criação de gráficos.
+* **[Doc Random](https://docs.python.org/pt-br/3/library/random.html)** : Documentação da biblioteca Random para gerar números aleatórios em Python.
+
+**Sites de Dados:**
+
+* **[Kaggle](https://www.kaggle.com/)**: Uma plataforma popular para encontrar e baixar conjuntos de dados para análise.
+* **[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)**: Repositório de dados para aprendizado de máquina e análise de dados.
+
+
 
 
 <br>
